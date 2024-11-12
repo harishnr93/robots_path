@@ -13,12 +13,12 @@ This Python script helps you analyze a sequence of moves and determine if the ro
 1. **Prerequisites:** Python 3.x is required to run this script.
 
 2. **Running the Script:**
-   - Save this code as a Python file (e.g., `robot_path_checker.py`).
+   - Save this code as a Python file (e.g., `robot_path.py`).
    - Open your terminal or command prompt and navigate to the directory where you saved the file.
    - Execute the script using the following command:
 
      ```bash
-     python robot_path_checker.py
+     python3 robot_path.py
      ```
 
 3. **Input Moves:**
